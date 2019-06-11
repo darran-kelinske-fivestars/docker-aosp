@@ -3,7 +3,7 @@
 #
 FROM ubuntu:16.04
 
-MAINTAINER Kyle Manna <kyle@kylemanna.com>
+MAINTAINER Darran Kelinske <darran.kelinske@gmail.com>
 
 # /bin/sh points to Dash by default, reconfigure to use bash until Android
 # build becomes POSIX compliant
